@@ -1,7 +1,7 @@
 '''
 Created on Jan 19, 2022
 
-@author: gulma
+@author: mammad
 '''
 
 import os 
